@@ -62,6 +62,3 @@ Put `.ogg` files in `ui/sounds/`, add them to `Config.CustomLines` with `enabled
 
 ## Notes
 - The fortune voice plays from each listener's own ped with `SET_AMBIENT_VOICE_NAME`. That changes the ped's ambient voice until something else sets it again.
-
----
-Support: https://buymeacoffee.com/rexshack
