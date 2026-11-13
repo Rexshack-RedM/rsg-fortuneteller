@@ -87,4 +87,4 @@ Server-authoritative: machine key, distance, price and cooldowns are all checked
 | "Busy" | Another player is using that machine |
 | Map machine ignored | `AutoDetectExistingProps = true` |
 
-Support: https://buymeacoffee.com/rexshack
+Support the Project : https://rexshack.tebex.store/
